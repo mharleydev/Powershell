@@ -1,0 +1,22 @@
+[
+  {
+    "Value": "server.domain.local",
+    "Description": "The name of the Active Roles server",
+    "Name": "ARSServerName"
+  },
+  {
+    "Value": "https://conosto.com/sites/sitename",
+    "Description": "Site URL for the Identity Warehouse SharePoint Site",
+    "Name": "SiteName"
+  },
+  {
+    "Value": "records",
+    "Description": "Name of the list that contains the teammate records",
+    "Name": "RecordsListName"
+  },
+  {
+    "Value": "master_list",
+    "Description": "Name of teh list that contains the master list of uid numbers",
+    "Name": "MasterListName"
+  }
+]
